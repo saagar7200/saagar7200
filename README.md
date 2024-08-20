@@ -19,10 +19,10 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
 
 ## 📈 GitHub Stats
   <div style="display: flex;">
-    <div style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 50%;" />
-      <img src="https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;" />
-  </div>
+        <div style="width: 50%;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 50%;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;" />
+        </div>
     
   <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="height: 100%; width: 100%;" />
   </div>
