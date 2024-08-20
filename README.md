@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile. I'm a software developer passionate about open-source projects and web development.
 
 ## 📈 GitHub Stats
-  <div >
+  <div style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 100%;" />
       <img src="https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;" />
   </div>
