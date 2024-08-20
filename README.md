@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile. I'm a software developer passionate about open-source projects and web development.
 
 ## 📈 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical" alt="Your GitHub stats" width="45%" />
+  <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Your Contribution Stats" width="45%" />
+</div>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact) -->
 ![Your Contribution Stats](https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true)
 
 ## 🌐 Find Me Online:
