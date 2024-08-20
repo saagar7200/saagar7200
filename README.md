@@ -21,14 +21,12 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
 
 <div >
   <!-- Top Languages and GitHub Stats -->
-  <div >
     <div >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 100%;" />
       <img src="https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;" />
     </div>
-  </div>
   
-  <!-- Contribution Stats -->
+ 
   <div >
     <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="height: 100%;" />
   </div>
