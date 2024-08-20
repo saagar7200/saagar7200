@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile. I'm a software developer passionate about open-source projects and web development.
 
 ## 📈 GitHub Stats
-<div style="display: flex; flex-direction: row; align-items: flex-start; width: 100%;">
+<div style="display: flex; flex-direction: row; align-items: flex-start;  width: 100%;">
   <!-- Column for Top Languages and GitHub Stats -->
   <div style="width: 50%; display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 50%; height: auto;" />
@@ -26,7 +26,9 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
   </div>
 
   <!-- Contribution Stats on the right -->
+  <div style="width: 50%; display: flex; flex-direction: row;">
   <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="width: 50%; height: auto;" />
+  </div>
 </div>
 
 ## 🌐 Find Me Online:
