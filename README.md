@@ -19,9 +19,20 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact) 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical)
-![Your Contribution Stats](https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true)
+<div style="display: flex; align-items: flex-start;">
+  <!-- Top Languages and GitHub Stats -->
+  <div style="flex: 1; margin-right: 10px;">
+    <div style="display: flex; flex-direction: column;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;" />
+    </div>
+  </div>
+  
+  <!-- Contribution Stats -->
+  <div style="flex-shrink: 0;">
+    <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="height: 100%;" />
+  </div>
+</div>
 
 ## 🌐 Find Me Online:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-bhandari-478494215/)
