@@ -23,8 +23,9 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
 
 
 ## 🌐 Find Me Online:
-- [LinkedIn]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/sagar-bhandari-478494215/))
+- [LinkedIn]([(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-bhandari-478494215/)
+
 
 ## 🌐 How to reach me:
-- [email]([https://www.linkedin.com/in/johndoe](rsaagar7200@gmail.com))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rsaagar7200@gmail.com)
 
