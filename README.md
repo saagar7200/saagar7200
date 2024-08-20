@@ -27,7 +27,7 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
 
   <!-- Contribution Stats on the right -->
   <div style="width: 50%; display: flex; flex-direction: row;">
-  <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="width: 50%; height: auto;" />
+    <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="width: 50%; height: auto;" />
   </div>
 </div>
 
