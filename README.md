@@ -21,6 +21,7 @@ Welcome to my GitHub profile. I'm a software developer passionate about open-sou
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saagar7200&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact)
+![Your Contribution Stats](https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true)
 
 ## 🌐 Find Me Online:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-bhandari-478494215/)
